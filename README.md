@@ -414,3 +414,202 @@ Project documentation
 Study reference for Embedded Systems.
 
 
+# Beginner Embedded Systems Projects
+
+## 1. LED Blink Project
+
+### Components
+
+* ESP32 / Arduino UNO
+* LED
+* 220Ω Resistor
+* Breadboard
+* Jumper Wires
+
+### What You Learn
+
+* Digital Output
+* Basic Coding
+* GPIO Pins
+
+---
+
+## 2. Smart Street Light
+
+### Components
+
+* LDR Sensor
+* LED
+* ESP32 / Arduino
+
+### What It Does
+
+Light automatically ON in dark and OFF in sunlight.
+
+### Skills
+
+* Sensor Reading
+* Automation
+
+---
+
+## 3. Obstacle Detection Robot
+
+### Components
+
+* Ultrasonic Sensor
+* Buzzer
+* ESP32
+* Wheels & Motors
+
+### What It Does
+
+Detects nearby objects and alerts using buzzer.
+
+### Skills
+
+* Distance Measurement
+* Robotics Basics
+
+---
+
+## 4. Temperature Monitoring System
+
+### Components
+
+* DHT11 Sensor
+* OLED/LCD Display
+* ESP32
+
+### What It Does
+
+Displays room temperature and humidity.
+
+### Skills
+
+* Sensor Integration
+* Display Interface
+
+---
+
+## 5. IR Remote Controlled LED
+
+### Components
+
+* IR Sensor
+* Remote
+* LED
+* ESP32
+
+### What It Does
+
+Control LED using TV remote.
+
+### Skills
+
+* IR Communication
+* Signal Reading
+
+---
+
+## 6. Motion Detection Alarm
+
+### Components
+
+* PIR Motion Sensor
+* Buzzer
+* ESP32
+
+### What It Does
+
+Alarm activates when motion is detected.
+
+### Skills
+
+* Security Systems
+* Motion Detection
+
+---
+
+## 7. Automatic Plant Watering System
+
+### Components
+
+* Soil Moisture Sensor
+* Water Pump
+* Relay Module
+* ESP32
+
+### What It Does
+
+Automatically waters plants when soil is dry.
+
+### Skills
+
+* IoT Automation
+* Relay Control
+
+---
+
+## 8. Bluetooth Controlled Robot
+
+### Components
+
+* HC-05 Bluetooth Module
+* Motor Driver
+* ESP32/Arduino
+
+### What It Does
+
+Control robot using mobile phone.
+
+### Skills
+
+* Wireless Communication
+* Motor Control
+
+---
+
+## 9. Smart Door Lock
+
+### Components
+
+* RFID Module
+* Servo Motor
+* ESP32
+
+### What It Does
+
+Door opens only for authorized RFID cards.
+
+### Skills
+
+* RFID Technology
+* Access Control
+
+---
+
+## 10. AI Object Detection Camera
+
+### Components
+
+* ESP32-CAM / Raspberry Pi
+* Camera Module
+
+### What It Does
+
+Detects objects using AI.
+
+### Skills
+
+* Computer Vision
+* AI + Embedded Systems
+
+For your internship level, best beginner-to-advanced order is:
+
+1. LED Blink
+2. Sensor Projects
+3. Automation Projects
+4. Robotics
+5. IoT Projects
+6. AI Object Detection Projects
