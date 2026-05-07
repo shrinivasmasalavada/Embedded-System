@@ -8,7 +8,7 @@
 
 ---
 
-## 📡 2. Input Components (Sensors)
+## 📡 2. Input Components (Sensors) 
 
 * Temperature Sensor
 * Humidity Sensor
