@@ -4,7 +4,6 @@
 
 
 
-![Image](https://images.openai.com/static-rsc-4/LyGWniw1diM03KeXwa0XgThWiLGrRK02dxSyZjKvuOLoytnK6jCRYC4ZiYvgszGuvgeeS_mhiIoPXjyQ79J6vdZKS23SiDL9EjpBGcnINm0xJtlS1GVCSZD2XYtLqW5qhCzeObPo_6vby18GntEThFlsec91qSQRvEtJhbtA7gIvQ1jMngdhXJsKsGnG42fb?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/vqDVLsMG0YjHe83dgdZKVTTNf4IZ_MM3_PbU92GFAqsOU6hlH8nhOz8fymd4KwHLK46CO4d8hye-PU4gUlklcKm5WJOIKSmE7cb15MlG2RFzBVJY-1MYAgMYHJeZFNfrxgJ6HFU6KiZFn3Ye1Nfm6BlDIR6xoT3l-ZBBV6adfbuDaIOgq7LuWlh37ZUH1AvD?purpose=fullsize)
 
