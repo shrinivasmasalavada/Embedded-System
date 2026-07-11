@@ -1,4 +1,4 @@
- # IoT + Embedded Systems Learning Roadmap
+ # Embedded + IoT Systems Learning Roadmap
 
 ![Image](https://images.openai.com/static-rsc-4/tNWAEq6H4j8zkkM5Rmin0A1I3T0ydTGWEPn4zYM0g1iRuGAHujZYoXAkE-xbonyC6RMhNjgffN6SzSI8yQ-DgzZW2L1U13QZb4891kMErnhfOIWCavxIbHZY7ZLcRVhxO8S8kODYzdht6PhB7FnZcac8XddUlyNi7hGWTApPczThOO0RgutxFoxakj-NII5L?purpose=fullsize)
 
